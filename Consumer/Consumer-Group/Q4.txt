@@ -1,0 +1,7 @@
+A consumer starts and has auto.offset.reset=latest, and the topic partition currently has data for offsets going from 45 to 2311.
+The consumer group has committed the offset 643 for the topic before. Where will the consumer read from?
+
+1. offset 45
+2. offset 643
+3. offset 2311
+4. It will be crash
