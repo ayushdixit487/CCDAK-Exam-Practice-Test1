@@ -1,0 +1,3 @@
+assign() can be used for manual assignment of a partition to a consumer, in which case subscribe() must not be used.
+Assign() takes a collection of TopicPartition object as an argument 
+(https://kafka.apache.org/23/javadoc/org/apache/kafka/clients/consumer/KafkaConsumer.html#assign-java.util.Collection-)
