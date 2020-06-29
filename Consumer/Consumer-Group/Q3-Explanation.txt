@@ -1,0 +1,4 @@
+Explanation
+two partitions groups - one for each application so that all messages are delivered to both the application.
+4 consumers in each as there are 4 partitions of the topic, 
+and you cannot have more consumers per groups than the number of partitions (otherwise they will be inactive and wasting resources)
