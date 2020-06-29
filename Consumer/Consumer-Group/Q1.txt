@@ -1,0 +1,5 @@
+We would like to be in an at-most once consuming scenario. Which offset commit strategy would you recommend?
+1. commit the offsets in kafka ,before processing the data.
+2. commit the offsets in kafka ,after processing the data.
+3. commit the offsets on disk ,after processing the data.
+4. Do not commit any offset and read from the beginning.
