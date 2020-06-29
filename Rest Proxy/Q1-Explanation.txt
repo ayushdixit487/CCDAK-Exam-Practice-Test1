@@ -1,0 +1,3 @@
+On the producer side, after receiving base64 data,
+the REST Proxy will convert it into bytes and then send that bytes payload to Kafka. 
+Therefore consumers reading directly from Kafka will receive binary data.
