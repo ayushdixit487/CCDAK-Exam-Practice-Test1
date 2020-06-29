@@ -1,0 +1,4 @@
+A bank uses a Kafka cluster for credit card payments. What should be the value of the property unclean.leader.election.enable?
+
+1. TRUE
+2. FALSE
