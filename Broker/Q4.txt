@@ -1,0 +1,6 @@
+If I produce to a topic that does not exist, and the broker setting auto.create.topic.enable=true, what will happen?
+
+1. kafka will automatically create the topic with the broker settings num.partitions and default.replication.factor 
+2. kafka will automatically create the topic with 1 partition and 1 replication factor
+3. kafka will automatically create the topic with the indicated settings num.partitions and default.replication.factor.
+4. kafka will automatically create the topic with the num.partitions= # and replication.factor = 3
