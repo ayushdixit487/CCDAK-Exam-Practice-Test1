@@ -1,0 +1,7 @@
+There are 3 producers writing to a topic with 5 partitions. There are 5 consumers consuming from the topic.
+How many Controllers will be present in the cluster?
+
+1. 2
+2. 3
+3. 5
+4. 1
