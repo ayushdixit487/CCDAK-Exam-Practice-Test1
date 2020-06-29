@@ -1,0 +1,2 @@
+Explanation
+The offsets are already committed for this consumer group and topic partition, so the property auto.offset.reset is ignored
