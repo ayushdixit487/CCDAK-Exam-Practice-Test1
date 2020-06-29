@@ -1,0 +1,7 @@
+A topic receives all the orders for the products that are available on a commerce site. 
+Two applications want to process all the messages independently - order fulfilment and monitoring. 
+The topic has 4 partitions, how would you organise the consumers for optimal performance and resource usage?
+
+1. Create 8 consumers in the same group with 4 consumer applications for each.
+2. Create 2 consumers in the same group for 2 applications with 8 consumer in each.
+3.  Create 2 consumers in the same group for 2 applications with 4 consumer in each.
