@@ -1,0 +1,2 @@
+Explanation
+Dynamic topic configurations are maintained in Zookeeper.
