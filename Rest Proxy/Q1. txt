@@ -1,0 +1,7 @@
+If I want to send binary data through the REST proxy to topic "test_binary", 
+it needs to be base64 encoded. A consumer connecting directly into the Kafka topic "test_binary" will receive.
+
+1.) avro data
+2.) base 64 encoded data ,it will need to decode it.
+3.) binary data.
+4.) json data
