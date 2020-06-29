@@ -1,0 +1,6 @@
+Where are the dynamic configurations for a topic stored?
+
+1. In server.properties.
+2. On the kafka broker file system.
+3. In Zookeeper
+4. In the internal kafka topic __topic_configuration
