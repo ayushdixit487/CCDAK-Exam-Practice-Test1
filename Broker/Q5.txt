@@ -1,0 +1,8 @@
+You have a Kafka cluster and all the topics have a replication factor of 3. 
+One intern at your company stopped a broker, and accidentally deleted all the data of that broker on the disk.
+What will happen if the broker is restarted?
+
+1. The broker will crash.
+2. The broker will start, and other topic will also be deleted.
+3. The broker will start, and won't be online untill all the data it needs to have is replicated from other leaders.
+4. The broker will start, and won't have any data.
