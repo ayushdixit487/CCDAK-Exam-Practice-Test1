@@ -1,0 +1,6 @@
+How do Kafka brokers ensure great performance between the producers and consumers? (select two)
+
+1. It transforms the data in the binary format.
+2. It buffers the message on disk and send messages from the disk reads.
+3. It does not transforms the messages.
+4. It leveages the zero copy optimisation to send data straight from the page-cache.
