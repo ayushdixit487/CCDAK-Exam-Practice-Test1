@@ -1,0 +1,4 @@
+In Avro, adding a field to a record without default is a __ schema evolution
+1. Full
+2. Forward
+3. Backward
