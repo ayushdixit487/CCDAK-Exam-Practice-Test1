@@ -1,0 +1,4 @@
+Explanation
+Both of these are retriable errors, others non-retriable errors.
+
+See the full list of errors and their "retriable" status here: https://kafka.apache.org/protocol#protocol_error_codes
