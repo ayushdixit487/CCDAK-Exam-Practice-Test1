@@ -1,0 +1,6 @@
+To import data from external databases, I should use
+
+1.  Kafka Connect-sink
+2.  Kafka-streams
+3.  Kafka  Connect-source
+4.  Confluent Rest Proxy
