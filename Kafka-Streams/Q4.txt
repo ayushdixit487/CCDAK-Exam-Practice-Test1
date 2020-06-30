@@ -1,0 +1,7 @@
+You are running a Kafka Streams application in a Docker container managed by Kubernetes, and upon application restart, 
+it takes a long time for the docker container to replicate the state and get back to processing the data.
+How can you improve dramatically the application restart?
+
+1. Increase the no of threads
+2. Increase the no of partition of the topic
+3. Mount persisitent the data into your Rock DB
