@@ -1,0 +1,1 @@
+Here KStream is being processed to create another KStream.
