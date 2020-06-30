@@ -1,0 +1,6 @@
+Select all the way for one consumer to subscribe simultaneously to the following topics - topic.history, topic.sports, topic.politics? (select two)
+
+1.  consumer.subscribe(Array.asList("topic.history", "topic.sports", "topic.politics"));
+2. consumer.subscribe(Pattern.compile("topic\..*"));
+3. consumer.subscribePrefix("topic.");
+4.consumer.subscribePrefix("topic.sports");consumer.subscribePrefix("topic.history");consumer.subscribePrefix("topic.politics");
