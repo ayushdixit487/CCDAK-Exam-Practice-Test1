@@ -1,0 +1,5 @@
+How will you read all the messages from a topic in your KSQL query?
+
+1. Use KSQL CLI to set auto.reset to earliest.
+2 . KSQL reads from the begining .
+2. KSQL reads from the end. 
