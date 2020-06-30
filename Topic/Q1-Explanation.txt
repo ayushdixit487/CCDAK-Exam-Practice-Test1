@@ -1,0 +1,1 @@
+Two brokers can go down, and one replica will still be able to receive and serve data
