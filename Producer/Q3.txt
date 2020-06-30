@@ -1,0 +1,6 @@
+If I want to have an extremely high confidence that leaders and replicas have my data, I should use
+
+1. acks=all , replication factor =3 , min.insyc.replicas =2
+2. acks=1 ,   replication factor =3 , min.insyc.replicas =2
+3. acks=all , replication factor =3 , min.insyc.replicas =1
+4. acks=all , replication factor =1 , min.insyc.replicas =2
