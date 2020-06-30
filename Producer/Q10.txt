@@ -1,0 +1,7 @@
+Select all that applies
+
+1. min.insync.replica only matters if ack =all;
+2. acks is a producer setting
+3. min.insync.replica is a producer setting
+4. acks is a topic setting
+5. min.insync.replica is a topic setting
