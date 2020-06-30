@@ -1,0 +1,6 @@
+A client connects to a broker in the cluster and sends a fetch request for a partition in a topic.
+It gets an exception NotLeaderForPartitionException in the response. How does client handle this situation?
+
+1. Send fetch request to broker
+2. Send meta data request to zookeeper for the topic.
+3. Send metadata request to broker for same topic and choosing the broker hosting the replica.
