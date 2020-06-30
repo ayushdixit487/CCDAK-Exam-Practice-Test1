@@ -1,0 +1,2 @@
+Explanation
+Consumer offsets are stored in a Kafka topic __consumer_offsets, and the Schema Registry stored schemas in the _schemas topic.
