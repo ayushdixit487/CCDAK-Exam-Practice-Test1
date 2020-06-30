@@ -5,3 +5,4 @@ What are the properties that are mandatory to configure for the producer configu
 2. partion
 3. key.serilizer
 4. bootstrap.servers
+5. value.serializer
