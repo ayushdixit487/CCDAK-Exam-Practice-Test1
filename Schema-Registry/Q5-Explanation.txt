@@ -1,0 +1,2 @@
+Explanation
+Clients with old schema will be able to read records saved with new schema.
