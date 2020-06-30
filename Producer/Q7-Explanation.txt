@@ -1,0 +1,2 @@
+Explanation
+linger.ms forces the producer to wait to send messages, hence increasing the chance of creating batches
