@@ -1,0 +1,5 @@
+Explanation
+Although any Kafka Streams application is stateless as the state is stored in Kafka, 
+it can take a while and lots of resources to recover the state from Kafka. In order to speed up recovery, 
+it is advised to store the Kafka Streams state on a persistent volume, 
+so that only the missing part of the state needs to be recovered.
