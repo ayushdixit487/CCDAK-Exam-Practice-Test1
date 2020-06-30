@@ -1,0 +1,2 @@
+Explanation
+Replicas are spread across available brokers, and each replica = one broker. RF 3 = 3 brokers
