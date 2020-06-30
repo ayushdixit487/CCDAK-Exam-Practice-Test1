@@ -1,0 +1,5 @@
+If a topic has a replication factor of 3..
+
+1. Each partition will be live on 3 diffrent broker.
+2. Each partition will be live on 4 diffrent broker.
+3. Each partition will be live on 2 diffrent broker.
