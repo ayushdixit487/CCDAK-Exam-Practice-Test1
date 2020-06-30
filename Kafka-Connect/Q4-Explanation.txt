@@ -1,0 +1,2 @@
+Explanation
+Kafka Connect Sink is used to export data from Kafka to external databases and Kafka Connect Source is used to import from external databases into Kafka.
