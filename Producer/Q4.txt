@@ -1,0 +1,7 @@
+Which of the following errors are retriable from a producer perspective? (select two)
+
+
+1. TOPIC_PARTITION_FAILED.
+2. MESSAGE_TOOLARGE.
+3. NOT_LEADER_FOR_PARTITION.
+4. NOT_ENOUGH_REPLICAS.
