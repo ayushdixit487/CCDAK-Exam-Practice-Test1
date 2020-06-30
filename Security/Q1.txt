@@ -1,0 +1,6 @@
+Where are the ACLs stored in a Kafka cluster by default?
+
+1. inside the broker's data directory
+2. insidd kafka topic
+3. inside the zookeeper's data directory
+4. under zokeeper node/kafka-acl/
