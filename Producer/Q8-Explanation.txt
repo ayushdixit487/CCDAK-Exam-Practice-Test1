@@ -1,0 +1,4 @@
+Explanation
+Some messages may require multiple retries. If there are more than 1 requests in flight, it may result in messages received out of order.
+Note an exception to this rule is if you enable the producer setting: enable.idempotence=true 
+which takes care of the out of ordering case on its own. See: https://issues.apache.org/jira/browse/KAFKA-5494
