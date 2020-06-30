@@ -1,0 +1,2 @@
+Explanation
+acks is a producer setting min.insync.replicas is a topic or broker setting and is only effective when acks=all
