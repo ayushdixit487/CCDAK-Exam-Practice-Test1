@@ -1,0 +1,7 @@
+A consumer application is using KafkaAvroDeserializer to deserialize Avro messages. 
+What happens if message schema is not present in AvroDeserializer local cache?
+
+1. Message fails
+2. Throw Serlaization Exception.
+3. Throw DeSerilazation Exception .
+4. Fetches meassges for schemas
