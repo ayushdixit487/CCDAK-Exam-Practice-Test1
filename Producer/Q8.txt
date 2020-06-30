@@ -1,0 +1,5 @@
+What is the risk of increasing max.in.flight.requests.per.connection while also enabling retries in a producer?
+
+1. MEssage order not preserved.
+2. reduce throughput.
+3. at least once delivery is gauranted.
