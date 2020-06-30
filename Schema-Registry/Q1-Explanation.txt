@@ -1,0 +1,2 @@
+Explanation
+The Schema Registry stores all the schemas in the _schemas Kafka topic
