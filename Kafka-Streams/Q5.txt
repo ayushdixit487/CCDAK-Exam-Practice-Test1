@@ -1,0 +1,8 @@
+Which of the following Kafka Streams operators are stateful? (select all that apply)
+
+1. Count
+2. peek
+3. Aggregate
+4. resuce
+5. join 
+6. flatmap
