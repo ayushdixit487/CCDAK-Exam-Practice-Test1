@@ -1,0 +1,2 @@
+Explanation
+Producers can set acks=1 to get acknowledgement from partition leader only.
