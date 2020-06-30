@@ -1,0 +1,5 @@
+Which of the following event processing application is stateless? (select two)
+
+1.  find minimum and maximum of eash day stock.
+2. Read message from the  streams and modify them from JSON to avro.
+3. Read log message from a stream and writes in Error event.
