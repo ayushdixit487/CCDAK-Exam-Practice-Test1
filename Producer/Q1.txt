@@ -1,0 +1,4 @@
+Producing with a key allows to...
+1. Influence partioning of the produced messages.
+2. Ensure per record level security.
+3. Add more information to my message
