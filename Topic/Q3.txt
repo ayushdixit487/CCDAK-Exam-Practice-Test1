@@ -1,0 +1,8 @@
+A customer has many consumer applications that process messages from a Kafka topic. Each consumer application can only process 50 MB/s. 
+Your customer wants to achieve a target throughput of 1 GB/s.
+What is the minimum number of partitions will you suggest to the customer for that particular topic?
+
+1. 1
+2. 20
+3. 10
+4. 50
