@@ -1,0 +1,5 @@
+What isn't a feature of the Confluent schema registry?
+
+1. store avro data.
+2. store schemas.
+3. Enforce compatability rules.
