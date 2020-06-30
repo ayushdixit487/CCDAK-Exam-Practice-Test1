@@ -1,0 +1,6 @@
+You want to perform table lookups against a KTable everytime a new record is received from the KStream. What is the output of KStream-KTable join?
+
+
+1. KStream
+2. KTable
+3. Global KTable
