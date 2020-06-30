@@ -1,0 +1,5 @@
+Using the Confluent Schema Registry, where are Avro schema stored?
+1. In the zk nodes.
+2. In the meassge byte it self.
+3. In the schema registry db.
+4. In __schema topic.
