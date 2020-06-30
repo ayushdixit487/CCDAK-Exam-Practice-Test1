@@ -1,0 +1,5 @@
+Which of the following setting increases the chance of batching for a Kafka Producer?
+
+1. increase linger.ms
+2. increase message.max.bytes
+3. increase batch.size
