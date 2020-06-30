@@ -1,0 +1,2 @@
+A Kafka producer application wants to send log messages to a topic that does not include any key. 
+What are the properties that are mandatory to configure for the producer configuration? (select three)
