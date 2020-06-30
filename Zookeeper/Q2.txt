@@ -1,0 +1,6 @@
+What information isn't stored inside of Zookeeper? (select two)
+
+1. Acl information
+2. Consumer offset
+3. Controller registration
+4. Schema registry schemas
