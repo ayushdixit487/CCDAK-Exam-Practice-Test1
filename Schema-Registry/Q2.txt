@@ -1,0 +1,5 @@
+What client protocol is supported for the schema registry? (select two)
+1. HTTPS
+2. Websocket
+3. HTTP
+4. JDBC
