@@ -1,0 +1,5 @@
+The exactly once guarantee in the Kafka Streams is for which flow of data?
+
+1. kafka ==> External
+2. Kafka==> Kafka
+3. External ==> Kafka
