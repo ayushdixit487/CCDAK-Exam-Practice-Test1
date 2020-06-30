@@ -1,0 +1,5 @@
+Your producer is producing at a very high rate and the batches are completely full each time. How can you improve the producer throughput? (select two)
+1. Enable compression.
+2.  Disable compression
+3. Enable batch.size
+4. disable batch.size
