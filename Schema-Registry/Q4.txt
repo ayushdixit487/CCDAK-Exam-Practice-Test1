@@ -1,0 +1,5 @@
+Which is an optional field in an Avro record?
+1. name
+2. namespace
+3. field
+4. doc
