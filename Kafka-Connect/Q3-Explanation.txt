@@ -1,0 +1,1 @@
+You cannot have more sink tasks (= consumers) than the number of partitions, so 2.
