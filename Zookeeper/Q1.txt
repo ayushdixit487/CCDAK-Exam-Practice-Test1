@@ -1,0 +1,7 @@
+A Zookeeper ensemble contains 3 servers. Over which ports the members of the ensemble should be able to communicate in default configuration? (select three)
+
+1. 2181
+2. 3888
+3. 9092
+4. 80
+5. 2888
