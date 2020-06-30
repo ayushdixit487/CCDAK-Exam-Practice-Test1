@@ -1,0 +1,6 @@
+What isn't an internal Kafka Connect topic?
+
+1. connect-status
+2. connect-jars
+3. connect-offsets
+4. connect-configs
