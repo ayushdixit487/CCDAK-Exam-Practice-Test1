@@ -1,0 +1,8 @@
+You want to sink data from a Kafka topic to S3 using Kafka Connect. 
+There are 10 brokers in the cluster, the topic has 2 partitions with replication factor of 3. 
+How many tasks will you configure for the S3 connector?
+
+1. 2
+2. 3
+3. 6
+4. 10
