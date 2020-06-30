@@ -1,0 +1,2 @@
+Explanation
+Data is stored on brokers.
