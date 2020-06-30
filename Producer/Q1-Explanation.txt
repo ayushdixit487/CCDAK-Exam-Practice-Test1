@@ -1,0 +1,5 @@
+Explanation
+Keys are necessary if you require strong ordering or grouping for messages that share the same key. 
+If you require that messages with the same key are always seen in the correct order, attaching a key to messages will 
+ensure messages with the same key always go to the same partition in a topic. Kafka guarantees order within a partition, but not across partitions in a topic, 
+so alternatively not providing a key - which will result in round-robin distribution across partitions - will not maintain such order.
