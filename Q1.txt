@@ -1,0 +1,7 @@
+A kafka topic has a replication factor of 3 and min.insync.replicas setting of 1. 
+What is the maximum number of brokers that can be down so that a producer with acks=all can still produce to the topic?
+
+1. 0
+2. 1
+3. 3
+4. 2
