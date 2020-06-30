@@ -1,0 +1,7 @@
+There are two consumers C1 and C2 belonging to the same group G subscribed to topics T1 and T2. 
+Each of the topics has 3 partitions. How will the partitions be assigned to consumers with PartitionAssignor being RoundRobinAssignor?
+
+1. C1 will be assigned partition 0 and 1 from topic T1 and T2 and C2 will be assigned partition 2 from T1 and T2.
+2. Two consumers can not read from two Topics at a time.
+3. C1 will be assigned partition 0 and 2 from topic T1 and partition 1 from T2 and C2 will be assigned partition 0 and 2 from topic T2 and partition 1 from T1.
+4. All consumer read from all topic.
