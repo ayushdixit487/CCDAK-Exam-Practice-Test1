@@ -1,0 +1,5 @@
+To enhance compression, I can increase the chances of batching by using
+
+1. message.max.bytes = 10MB
+2. linger.ms
+3. acks = all
