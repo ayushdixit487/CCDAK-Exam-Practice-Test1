@@ -1,0 +1,5 @@
+To get acknowledgement of writes to only the leader partition, we need to use the config...
+
+1. acks =0
+2. acks =1
+3. acks = all
