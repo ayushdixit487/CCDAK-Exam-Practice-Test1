@@ -1,0 +1,2 @@
+Explanation
+each consumer can process only 50 MB/s, so we need at least 20 consumers consuming one partition so that 50 * 20 = 1000 MB target is achieved.
