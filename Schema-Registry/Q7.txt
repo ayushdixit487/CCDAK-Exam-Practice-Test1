@@ -1,0 +1,8 @@
+Explanation
+First local cache is checked for the message schema. In case of cache miss, schema is pulled from the schema registry.
+An exception will be thrown in the Schema Registry does not have the schema (which should never happen if you set it up properly)
+
+1. Zookeeper.
+2. Kafka broker.
+3. Kafka Producer.
+4. Confluent Schema registry.
